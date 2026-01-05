@@ -58,10 +58,11 @@ python main.py
 ```
 ├─ main.py              # 游戏主程序（直接运行这个）
 ├─ requirements.txt     # 依赖列表
-├─ README.md            # 说明文档
-├─ 课程报告.pdf         # 课程报告
-├─ assets/              # 游戏图片与素材
-└─ website/             # 项目展示网页（可选）
+├─ README.md            # 说明文档         
+├─ bg.jpg               # 背景图片
+├─ dount.png            # 食物图片
+
 ```
 
 ---
+
